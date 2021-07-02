@@ -1,0 +1,5 @@
+'''
+qweqwe
+'''
+
+print('hello world')
